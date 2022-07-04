@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Homework(NumPower)\Homework(NumPower)\bin\Debug\netcoreapp3.1\Homework(NumPower).exe
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Homework(NumPower)\Homework(NumPower)\bin\Debug\netcoreapp3.1\Homework(NumPower).deps.json
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Homework(NumPower)\Homework(NumPower)\bin\Debug\netcoreapp3.1\Homework(NumPower).runtimeconfig.json
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Homework(NumPower)\Homework(NumPower)\bin\Debug\netcoreapp3.1\Homework(NumPower).runtimeconfig.dev.json
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Homework(NumPower)\Homework(NumPower)\bin\Debug\netcoreapp3.1\Homework(NumPower).dll
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Homework(NumPower)\Homework(NumPower)\bin\Debug\netcoreapp3.1\Homework(NumPower).pdb
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Homework(NumPower)\Homework(NumPower)\obj\Debug\netcoreapp3.1\Homework(NumPower).csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Homework(NumPower)\Homework(NumPower)\obj\Debug\netcoreapp3.1\Homework(NumPower).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Homework(NumPower)\Homework(NumPower)\obj\Debug\netcoreapp3.1\Homework(NumPower).AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Homework(NumPower)\Homework(NumPower)\obj\Debug\netcoreapp3.1\Homework(NumPower).AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Homework(NumPower)\Homework(NumPower)\obj\Debug\netcoreapp3.1\Homework(NumPower).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Homework(NumPower)\Homework(NumPower)\obj\Debug\netcoreapp3.1\Homework(NumPower).dll
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Homework(NumPower)\Homework(NumPower)\obj\Debug\netcoreapp3.1\Homework(NumPower).pdb
+C:\Users\HP\Desktop\C#\CodeHomeWork1\Homework(NumPower)\Homework(NumPower)\obj\Debug\netcoreapp3.1\Homework(NumPower).genruntimeconfig.cache
